@@ -11,7 +11,7 @@ This repository contains the structured lecture plan for the course **CS2201 –
 | Class | Topic                                                                  | MT   |
 | ----- | ---------------------------------------------------------------------- | ---- |
 | 1     | Introduction                                                           | MT-1 |
-| 2     | Running Time Analysis (simple codes, why log n, recursion – Fibonacci) |      |
+| 2     | Running Time Analysis |      |
 | 3     | Asymptotic Notation                                                    |      |
 | 4     | Exhaustive Search – TSP, Knapsack, Assignment                          |      |
 | 11    | Master’s Theorem                                                       |      |
