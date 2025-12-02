@@ -1,4 +1,4 @@
-# 📘 Design and Analysis of Algorithms (DAA) — Lecture Plan
+# 📘 Design and Analysis of Algorithms (DAA)
 
 This repository contains the structured lecture plan for the course **CS2201 – Design and Analysis of Algorithms**, including unit-wise and class-wise topics.
 
