@@ -15,7 +15,6 @@ This repository contains the structured lecture plan for the course **CS2201 –
 | 3     | Asymptotic Notation                                                    |      |
 | 4     | Exhaustive Search – TSP, Knapsack, Assignment                          |      |
 | 11    | Master’s Theorem                                                       |      |
-| 12    | MT-1 Paper Discussion                                                  |      |
 
 ---
 
@@ -29,6 +28,7 @@ This repository contains the structured lecture plan for the course **CS2201 –
 | 8     | Fibonacci, Binary Search                           |
 | 9     | Quick Sort, Merge Sort                             |
 | 10    | Strassen’s Matrix Multiplication, Master’s Theorem |
+| 12    | MT-1 Paper Discussion                              | 
 
 ---
 
